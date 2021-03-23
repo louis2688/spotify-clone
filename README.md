@@ -13,7 +13,7 @@ A spotify clone built with <strong>React</strong>
 #### -How to build progressive a web app with simplicity
 
 ### How to run locally
-> create client ID in developer.spotify.com
-> npm install 
-> npm start
+> create client ID in developer.spotify.com    
+> npm install  
+> npm start  
 > localhost:3000
